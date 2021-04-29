@@ -96,7 +96,7 @@
     	<div class="logo">	©TRJ</div>
     </div>
     <div class="text-area">
-        <h2>Plannr.</h2>
+        <h2>Planner</h2>
         <h3><em>one stop app</em></h3>
         <p>Our algorithm helps you find the quickest route from the source to the destination of your choosing.</p>
         <a href="plan.php">Get Started</a>
