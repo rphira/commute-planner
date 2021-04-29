@@ -2,7 +2,7 @@
 
 ## Setup
 
-- Create an SQL database called "wp_project"
+- Create an SQL database called "wp_project".
 
 - the .sql file has been provided in the "database" folder. Import it in the database created above.
 
