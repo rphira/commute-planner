@@ -1,4 +1,4 @@
-# commute-planner
+# Commute Planner
 
 ## Setup
 Create an SQL database called "wp_project"
