@@ -12,7 +12,7 @@
 
 - Run "index.php"
 
-- The source and destination must be entered to generate a commute plan.
+- The source & destination must be entered to generate a commute plan.
 
 - This can be done by either manually entering the locations or by clicking on the locations on the map provided.
 
